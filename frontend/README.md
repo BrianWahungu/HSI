@@ -1,12 +1,12 @@
-# React + Vite
+# Health Information System (HSI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using Next.js, Express, PostgreSQL, and TailwindCSS.
 
-Currently, two official plugins are available:
+## 📄 Project Presentation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the PowerPoint presentation here: [View Presentation](https://www.canva.com/design/DAGlvVkpq-k/7u332zaMn1Xq_qg4o9sXeA/edit?utm_content=DAGlvVkpq-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Visit the deployed application: [Live Site](https://hsi.onrender.com/)
+
